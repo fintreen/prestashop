@@ -1,4 +1,4 @@
-# WooCommerce client for fintreen.com.
+# Prestashop plugin for fintreen.com.
 Fintreen.com prestashop8 php plugin for crypto-payment gateway API
 
 [![MIT License][license-shield]][license-url]
